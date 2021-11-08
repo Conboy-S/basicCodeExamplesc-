@@ -1,0 +1,13 @@
+#include <iostream>
+ 
+int main() {
+ 
+  std::cout << " SSS   CCC  \n";
+  std::cout << "S   S C   C \n";
+  std::cout << "S     C     \n";
+  std::cout << " SSS  C     \n";
+  std::cout << "    S C     \n";
+  std::cout << "S   S C   C \n";
+  std::cout << " SSS   CCC  \n";
+ 
+}
